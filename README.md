@@ -38,7 +38,7 @@ Update the .env file with your MySQL password and user info
 ## Usage
 
 ```md
-Opne terminal on VS Code
+Open terminal on VS Code
 Navigate to 'db'
 Log in to MySQL
 Type source schema.sql
