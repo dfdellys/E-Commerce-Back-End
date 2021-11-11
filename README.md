@@ -37,7 +37,7 @@ Update the .env file with your MySQL password and user info
 
 ## Usage
 
-``md
+```md
 Opne terminal on VS Code
 Navigate to 'db'
 Log in to MySQL
@@ -45,8 +45,10 @@ Type source schema.sql
 Then quit
 Navigate to main folder and type npm run seed
 Run the app by typing node server.js
-
 ```
 
+## Demo
 
-```
+* Part 1: https://watch.screencastify.com/v/RlpAy7HfS5AKtrrcSKx9
+* Part 2: https://watch.screencastify.com/v/0dJFDhptEItgAQIWdOjZ
+
