@@ -26,10 +26,27 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## How to run the app
+## Installation
 
 ```md
-DB_NAME='ecommerce_db'
-DB_USER='root'
-DB_PW='xxx'
+Clone repository and open in VS Code
+Open Terminal on VS Code
+Type npm install
+Update the .env file with your MySQL password and user info
+```
+
+## Usage
+
+``md
+Opne terminal on VS Code
+Navigate to 'db'
+Log in to MySQL
+Type source schema.sql
+Then quit
+Navigate to main folder and type npm run seed
+Run the app by typing node server.js
+
+```
+
+
 ```
